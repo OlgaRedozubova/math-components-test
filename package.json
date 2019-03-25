@@ -1,8 +1,9 @@
 {
-  "name": "react-fancy-project-test",
+  "name": "math-components-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "math-components": "git+https://github.com/OlgaRedozubova/math-components.git",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8"
