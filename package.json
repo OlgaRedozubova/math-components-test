@@ -6,6 +6,7 @@
     "math-components": "git+https://github.com/OlgaRedozubova/math-components.git",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
+    "react-mathpix": "./react-mathpix",
     "react-scripts": "2.1.8"
   },
   "scripts": {

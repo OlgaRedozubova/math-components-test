@@ -1,0 +1,3 @@
+[submodule "react-mathpix"]
+	path = react-mathpix
+	url = git@github.com:Mathpix/react-mathpix.git
